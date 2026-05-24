@@ -1,0 +1,9 @@
+{
+  "name": "vercel-status-api",
+  "version": "1.0.0",
+  "description": "A simple random status API for Vercel",
+  "main": "api/status.js",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
