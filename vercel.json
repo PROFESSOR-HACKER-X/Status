@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "status.js": {
+      "runtime": "vercel-node@latest"
+    }
+  },
+  "rewrites": [
+    { "source": "/status", "destination": "/status.js" }
+  ]
+}
